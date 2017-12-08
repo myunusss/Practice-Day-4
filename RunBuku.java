@@ -15,7 +15,7 @@ class Overload{ // class polymorphism overload
 	}
 }
 
-public class RunBuku extends Buku { // menggunakan single inheritance dengan super class Buku
+public class RunBuku extends Buku { // menggunakan single inheritance dengan super class Buku 
 
 	public static void main(String[] args){
 		RunBuku obj = new RunBuku(); // instance class Buku

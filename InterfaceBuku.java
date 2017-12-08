@@ -1,4 +1,4 @@
-public interface InterfaceBuku{ //INTERFACE
+public interface InterfaceBuku{ //INTERFACE 
 	public String getJudul();
 	public String getPenerbit();
 	public String getTahunTerbit();

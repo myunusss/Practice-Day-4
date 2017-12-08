@@ -1,4 +1,4 @@
-public class Buku implements InterfaceBuku{ // menggunakan abstaction interface
+public class Buku implements InterfaceBuku{ // menggunakan abstaction interface 
 
 	// Menggunakan encapsulation protected yang hanya bisa diakses oleh class dan package nya saja.
 	protected String judul;
